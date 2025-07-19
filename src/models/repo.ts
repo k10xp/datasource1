@@ -1,11 +1,11 @@
-interface RepoTagResponse {
+export interface RepoTagResponse {
   name: string;
   zipball_url: string;
   commit: CommitInfo;
   node_id: string;
 }
 
-interface CommitInfo {
+export interface CommitInfo {
   sha: string;
   url: string;
 }
