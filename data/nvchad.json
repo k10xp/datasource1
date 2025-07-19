@@ -1,0 +1,22 @@
+[
+  {
+    "name": "v2.5",
+    "zipball_url": "https://api.github.com/repos/NvChad/NvChad/zipball/refs/tags/v2.5",
+    "tarball_url": "https://api.github.com/repos/NvChad/NvChad/tarball/refs/tags/v2.5",
+    "commit": {
+      "sha": "6fb5c313edc966f187c7483a16affaec0518b641",
+      "url": "https://api.github.com/repos/NvChad/NvChad/commits/6fb5c313edc966f187c7483a16affaec0518b641"
+    },
+    "node_id": "MDM6UmVmMzQ1MzY4NzY1OnJlZnMvdGFncy92Mi41"
+  },
+  {
+    "name": "v2.0",
+    "zipball_url": "https://api.github.com/repos/NvChad/NvChad/zipball/refs/tags/v2.0",
+    "tarball_url": "https://api.github.com/repos/NvChad/NvChad/tarball/refs/tags/v2.0",
+    "commit": {
+      "sha": "bb87d70fd6dedce65c67a4390c9faecc55b0ed72",
+      "url": "https://api.github.com/repos/NvChad/NvChad/commits/bb87d70fd6dedce65c67a4390c9faecc55b0ed72"
+    },
+    "node_id": "MDM6UmVmMzQ1MzY4NzY1OnJlZnMvdGFncy92Mi4w"
+  }
+]

@@ -1,22 +1,22 @@
 {
-	"name": "Existing Dockerfile",
-	"build": {
-		"context": "..",
-		"dockerfile": "../Dockerfile"
-	},
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"formulahendry.code-runner",
-				"ms-vscode.live-server",
-				"gxl.git-graph-3"
-			],
-			"settings": {
-				"code-runner.enableAppInsights": false,
-				"chat.mcp.enabled": false,
-				"telemetry.editStats.enabled": false,
-				"telemetry.feedback.enabled": false
-			}
-		}
-	}
+  "name": "Existing Dockerfile",
+  "build": {
+    "context": "..",
+    "dockerfile": "../configs/Dev.dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "formulahendry.code-runner",
+        "ms-vscode.live-server",
+        "gxl.git-graph-3"
+      ],
+      "settings": {
+        "code-runner.enableAppInsights": false,
+        "chat.mcp.enabled": false,
+        "telemetry.editStats.enabled": false,
+        "telemetry.feedback.enabled": false
+      }
+    }
+  }
 }
