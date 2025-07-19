@@ -1,6 +1,7 @@
 import { Router, Request, Response } from "express";
 import { RepoTagResponse } from "../models/repo";
 import { nvData } from "../setup/jsondata";
+import { parseItemIndex, returnFullJson } from "../shared/params";
 
 const nvRouter = Router();
 
@@ -9,9 +10,10 @@ nvRouter.get("/", (req: Request, res: Response) => {
 });
 
 nvRouter.get("/:index", (req: Request, res: Response) => {
-  const itemIndex: number = parseInt(req.params.index);
+  const itemIndex: number = parseItemIndex(req, res, nvData.length);
+
   const itemAtIndex: RepoTagResponse = nvData[itemIndex];
-  res.status(200).json(itemAtIndex);
+  returnFullJson(res, itemAtIndex);
 });
 
 //todo: want start-end
@@ -32,6 +34,22 @@ nvRouter.get("/:start/:end", (req: Request, res: Response) => {
 
   const itemSlice: RepoTagResponse[] = nvData.slice(startIndex, endIndex);
   res.json(itemSlice);
+});
+
+nvRouter.post("/", (req: Request, res: Response) => {
+  const newNvEntry: RepoTagResponse = {
+    name: req.body.name,
+    zipball_url: req.body.zipball_url,
+    commit: {
+      sha: req.body.sha,
+      url: req.body.url,
+    },
+    node_id: req.body.node_id,
+  };
+
+  nvData.push(newNvEntry);
+
+  res.status(201).json(newNvEntry);
 });
 
 export default nvRouter;
