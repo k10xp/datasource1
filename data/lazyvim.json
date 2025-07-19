@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v14.15.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.15.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.15.0",
+    "commit": {
+      "sha": "25abbf546d564dc484cf903804661ba12de45507",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/25abbf546d564dc484cf903804661ba12de45507"
+    },
+    "node_id": "REF_kwDOIsql_7JyZWZzL3RhZ3MvdjE0LjE1LjA"
+  },
+  {
+    "name": "v14.14.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.14.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.14.0",
+    "commit": {
+      "sha": "3f034d0a7f58031123300309f2efd3bb0356ee21",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/3f034d0a7f58031123300309f2efd3bb0356ee21"
+    },
+    "node_id": "REF_kwDOIsql_7JyZWZzL3RhZ3MvdjE0LjE0LjA"
+  },
+  {
+    "name": "v14.13.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.13.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.13.0",
+    "commit": {
+      "sha": "45d94b3197eaf3f35754b8ecb7adebfcebe5160d",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/45d94b3197eaf3f35754b8ecb7adebfcebe5160d"
+    },
+    "node_id": "REF_kwDOIsql_7JyZWZzL3RhZ3MvdjE0LjEzLjA"
+  },
+  {
+    "name": "v14.12.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.12.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.12.0",
+    "commit": {
+      "sha": "9d426ed7fc57b285e0a89e011f7a35bd99cdc7f8",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/9d426ed7fc57b285e0a89e011f7a35bd99cdc7f8"
+    },
+    "node_id": "REF_kwDOIsql_7JyZWZzL3RhZ3MvdjE0LjEyLjA"
+  },
+  {
+    "name": "v14.11.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.11.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.11.0",
+    "commit": {
+      "sha": "29829f7eb6e937f9fe43e9455e55704b3fac8794",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/29829f7eb6e937f9fe43e9455e55704b3fac8794"
+    },
+    "node_id": "REF_kwDOIsql_7JyZWZzL3RhZ3MvdjE0LjExLjA"
+  },
+  {
+    "name": "v14.10.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.10.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.10.0",
+    "commit": {
+      "sha": "597cd8ffa3c54471df860c4036a8c20e123292b9",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/597cd8ffa3c54471df860c4036a8c20e123292b9"
+    },
+    "node_id": "REF_kwDOIsql_7JyZWZzL3RhZ3MvdjE0LjEwLjA"
+  },
+  {
+    "name": "v14.9.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.9.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.9.0",
+    "commit": {
+      "sha": "eb8ddea8c9438c34e71db097eb77a44185dd1093",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/eb8ddea8c9438c34e71db097eb77a44185dd1093"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjkuMA"
+  },
+  {
+    "name": "v14.8.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.8.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.8.0",
+    "commit": {
+      "sha": "2bea40c447b72e54ffb2d5cddc98d7798990796f",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/2bea40c447b72e54ffb2d5cddc98d7798990796f"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjguMA"
+  },
+  {
+    "name": "v14.7.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.7.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.7.0",
+    "commit": {
+      "sha": "3660c52017462dfc472ff436261100a98ebea34d",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/3660c52017462dfc472ff436261100a98ebea34d"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjcuMA"
+  },
+  {
+    "name": "v14.6.1",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.6.1",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.6.1",
+    "commit": {
+      "sha": "d1529f650fdd89cb620258bdeca5ed7b558420c7",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/d1529f650fdd89cb620258bdeca5ed7b558420c7"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjYuMQ"
+  },
+  {
+    "name": "v14.6.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.6.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.6.0",
+    "commit": {
+      "sha": "d0c366e4d861b848bdc710696d5311dca2c6d540",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/d0c366e4d861b848bdc710696d5311dca2c6d540"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjYuMA"
+  },
+  {
+    "name": "v14.5.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.5.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.5.0",
+    "commit": {
+      "sha": "447e260a62ffd50b0113c20db0e63108baf44b44",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/447e260a62ffd50b0113c20db0e63108baf44b44"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjUuMA"
+  },
+  {
+    "name": "v14.4.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.4.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.4.0",
+    "commit": {
+      "sha": "c8d8dd0ab6b4db711b33a79835cbac3b389b37f4",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/c8d8dd0ab6b4db711b33a79835cbac3b389b37f4"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjQuMA"
+  },
+  {
+    "name": "v14.3.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.3.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.3.0",
+    "commit": {
+      "sha": "8fe3b5eec8cab66bef61a402ad3a788de1096425",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/8fe3b5eec8cab66bef61a402ad3a788de1096425"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjMuMA"
+  },
+  {
+    "name": "v14.2.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.2.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.2.0",
+    "commit": {
+      "sha": "c2175397a7e7d67c31b057c6b84e652688f1d874",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/c2175397a7e7d67c31b057c6b84e652688f1d874"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjIuMA"
+  },
+  {
+    "name": "v14.1.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.1.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.1.0",
+    "commit": {
+      "sha": "d30e9e31ebfbb3d079e7e17a948ab1ccb086d618",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/d30e9e31ebfbb3d079e7e17a948ab1ccb086d618"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjEuMA"
+  },
+  {
+    "name": "v14.0.2",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.0.2",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.0.2",
+    "commit": {
+      "sha": "d2ba0473f0a33892947a633aa155f3111b4906e5",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/d2ba0473f0a33892947a633aa155f3111b4906e5"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjAuMg"
+  },
+  {
+    "name": "v14.0.1",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.0.1",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.0.1",
+    "commit": {
+      "sha": "9a0d14dcf5a6e91a54f1afc1378a85f09dec9ae8",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/9a0d14dcf5a6e91a54f1afc1378a85f09dec9ae8"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjAuMQ"
+  },
+  {
+    "name": "v14.0.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v14.0.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v14.0.0",
+    "commit": {
+      "sha": "f3a919d23d322952a20abb76837211ef7e053235",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/f3a919d23d322952a20abb76837211ef7e053235"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjE0LjAuMA"
+  },
+  {
+    "name": "v13.9.1",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.9.1",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.9.1",
+    "commit": {
+      "sha": "31af2075423d0e6d3c4f10ab299498471afe4ea0",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/31af2075423d0e6d3c4f10ab299498471afe4ea0"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjkuMQ"
+  },
+  {
+    "name": "v13.9.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.9.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.9.0",
+    "commit": {
+      "sha": "475e3f32b82db0cc497f712953993dcce4f048c6",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/475e3f32b82db0cc497f712953993dcce4f048c6"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjkuMA"
+  },
+  {
+    "name": "v13.8.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.8.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.8.0",
+    "commit": {
+      "sha": "3c605f547c594b509d83f8677bb7609c005edea5",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/3c605f547c594b509d83f8677bb7609c005edea5"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjguMA"
+  },
+  {
+    "name": "v13.7.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.7.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.7.0",
+    "commit": {
+      "sha": "8a3321d827e58dbf09ec123cc24bc7a2d96dd117",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/8a3321d827e58dbf09ec123cc24bc7a2d96dd117"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjcuMA"
+  },
+  {
+    "name": "v13.6.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.6.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.6.0",
+    "commit": {
+      "sha": "7bdc205e7da3c24d0d3b838ed9d7fdcd62a0ac1d",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/7bdc205e7da3c24d0d3b838ed9d7fdcd62a0ac1d"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjYuMA"
+  },
+  {
+    "name": "v13.5.3",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.5.3",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.5.3",
+    "commit": {
+      "sha": "adcbfc72fd8d0808d78bdfe0940d98c6432c4ef0",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/adcbfc72fd8d0808d78bdfe0940d98c6432c4ef0"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjUuMw"
+  },
+  {
+    "name": "v13.5.2",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.5.2",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.5.2",
+    "commit": {
+      "sha": "4d596cf4b4dcb369b2aef7e4d09635416b6c5a3f",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/4d596cf4b4dcb369b2aef7e4d09635416b6c5a3f"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjUuMg"
+  },
+  {
+    "name": "v13.5.1",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.5.1",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.5.1",
+    "commit": {
+      "sha": "fc2eae5fafad8ea6135cbf7c5d65077b7030c622",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/fc2eae5fafad8ea6135cbf7c5d65077b7030c622"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjUuMQ"
+  },
+  {
+    "name": "v13.5.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.5.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.5.0",
+    "commit": {
+      "sha": "2786fdb6e2eb0a8e640042fd1cfe8b2febdf7e40",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/2786fdb6e2eb0a8e640042fd1cfe8b2febdf7e40"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjUuMA"
+  },
+  {
+    "name": "v13.4.0",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.4.0",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.4.0",
+    "commit": {
+      "sha": "704c29110d578186f0ca3eac67b753ddf52541fc",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/704c29110d578186f0ca3eac67b753ddf52541fc"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjQuMA"
+  },
+  {
+    "name": "v13.3.1",
+    "zipball_url": "https://api.github.com/repos/LazyVim/LazyVim/zipball/refs/tags/v13.3.1",
+    "tarball_url": "https://api.github.com/repos/LazyVim/LazyVim/tarball/refs/tags/v13.3.1",
+    "commit": {
+      "sha": "bb289f4345835d98df7d0dfd4a26fd0dffa7e89a",
+      "url": "https://api.github.com/repos/LazyVim/LazyVim/commits/bb289f4345835d98df7d0dfd4a26fd0dffa7e89a"
+    },
+    "node_id": "REF_kwDOIsql_7FyZWZzL3RhZ3MvdjEzLjMuMQ"
+  }
+]
