@@ -7,8 +7,8 @@ import nvcRouter from "./routes/nvchad";
 const app = express();
 app.use(express.json());
 
-app.get("/", (req: Request, res: Response) => {
-  res.send("Datasource #1");
+app.get("/", (_req: Request, res: Response) => {
+  res.status(200).send("Datasource #1");
 });
 
 app.use("/neovim", nvRouter);

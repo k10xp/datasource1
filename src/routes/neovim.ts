@@ -5,8 +5,8 @@ import { parseItemIndex, returnFullJson } from "../shared/params";
 
 const nvRouter = Router();
 
-nvRouter.get("/", (req: Request, res: Response) => {
-  res.json(nvData);
+nvRouter.get("/", (_req: Request, res: Response) => {
+  res.status(200).json(nvData);
 });
 
 nvRouter.get("/:index", (req: Request, res: Response) => {
